@@ -90,6 +90,10 @@ Acima do pH 8,5 - CO$_3$$^2$$^-$ é elevado, precipitando o Ca (CACO$_3$ (s))
  diminuindo a sua atividade. ->   CO$_3$$^2$$^-$  + Ca$^-$$^2$$^+$ <=> CACO$_3$ (s)
 Tambem é adsorvido á superfície dos carbonatos .
 
+**Em solos acidos** - Um alto teor de iões [[Alumínio]], [[Ferro]], ou [[Manganês]] em solução. Que reagem com o fósforo formando compostos insóluveis. 
+
+
+
 #### Adsorção dos iões fosfatos
 
 *Adsorção (quando se fala no solo) - Adesão de iões e moléculas da solução do solo á superfície dos coloides (argilas e matéria orgânica), fundamental para nutrição das plantas e retenção de poluentes*
@@ -98,6 +102,7 @@ Iões fosfato são atraidos para a superficie dos colóides por:
 - catiões bi ou trivalente adsorvidos no complexo de troca
 	- bi/trivalente = catião com carga eletrica positiva +2/+3, representada: X$^3$$^+$ 
 - pelas cargas positivas do coloide(abundantes em solos muito acidos)
+
 
 
 #nutrição 
