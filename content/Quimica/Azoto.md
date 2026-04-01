@@ -209,4 +209,4 @@ Fontes/Entradas
 	- orgânicos - sujeitos à mineralização/imobilização
 	- minerais - formas mais rapidamente disponíveis de N
 ---
-#nutrição 
+#nutrição #quimica 
