@@ -11,7 +11,7 @@ O azoto orgânico (N$_Org$)) é um constituinte importante da [[Materia Organica
 **Mineralização do azoto orgânico:**
 	Aminização -  residuos biologicos em matéria prima são partidos em blocos pequenos e depois libertados para a vida no solo. Uma maneira de decomposição de matéria viva do solo. 
 		moléculas orgânicas azotadas complexas -> R-NH$_2$ + CO$_2$ + energia + outros produtos.
-	Amonificação - Azoto ligado organicamente sob a forma de pr´teinas, aminoácidos ou ácidos nucleicos é convertido num amoníaco (NH$_3$) ou amónio (NH$_3$$^2$$^+$)
+	Amonificação - Azoto ligado organicamente sob a forma de pr´teinas, aminoácidos ou ácidos nucleicos é convertido num amoníaco (NH$_3$) ou amónio (NH$_3$$^2$$^+$   $NH_3^2+$)
 		R-NH$_2$ + H$_2$O -> NH$_3$ + R-OH + Energia
 		NH$_3$ + H$_2$O <-> NH$_4$$^+$ + OH 
 
