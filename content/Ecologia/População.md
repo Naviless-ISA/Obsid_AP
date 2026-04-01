@@ -1,0 +1,7 @@
+Uma [[População]] pode ser definida como um conjunto de indivíduos de uma mesma [[Espécie]] que vive em uma determinada área em um determinado momento.  Essa área pode ser a distribuição normal desses organismos ou então um limite escolhido por um investigadoras que estuda aquele grupo de seres. Os indivíduos de uma população apresentam maior probabilidade de cruzamento entre s o do quem com organismos de outra população da mesma espécie. 
+
+Uma população tem o seu tamanho a ser constantemente alterado por diversos fatores. Pode diminuir em consequência de mortes e migrações e pode aumentar consequentemente a nascimentos e imigrações. Estes fatores são ligados depois a ambientes de uma grande escala, i.e: disponibilidade de alimentos, condições ambientais, predadores e reprodução.  
+
+As populações podem variar de tamanho mas não apresentam um crescimento contínuo e ilimitado. Se uma população cresce de maneira exagerada, pode afetar todos os organismos do grupo e assim, causar a limitação de recursos, dificultar a reprodução e reduzir a área onde os indivíduos vivem.  É dito que estes fatores são barreiras naturais para impedir um crescimento exagerado e, mantem a população sempre em uma quantidade limite de indivíduos. O tamanho máximo de uma população em um ambiente natural é chamado de **Capacidade Limite**.
+
+#ecologia 
