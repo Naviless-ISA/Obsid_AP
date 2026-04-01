@@ -99,8 +99,57 @@ Também é adsorvido á superfície dos carbonatos .
 
 Iões fosfato são atraídos para a superfície dos colóides por:
 - catiões bi ou trivalente adsorvidos no complexo de troca
-	- bi/trivalente = catião com carga elétrica positiva +2/+3, representada: X$^3$$^+$ 
-- pelas cargas positivas do coloide(abundantes em solos muito ácidos)
+	- bi/trivalente = catião com carga elétrica positiva +2/+3, representada: X$^3$$^+$   ^38c996
+- pelas cargas positivas do coloide(abundantes em solos muito ácidos
+
+^
+
+Muda entre o $H_2 PO_4^-$ com os grupos -OH ou -OH$_2$ ligados ao Al
+
+![[Pasted image 20260401184903.png]]
+
+**Oxidos/Hidroxidos de Fe e Al** - Fe(OH)$_3$ + $H_2 PO_4^-$ <=> $Fe(OH)_2 H_2 PO_4$ + OH$^-$. 
+
+Matéria orgânica
+- Atração eletrostática devido as cargas positivas de alguns radicais orgânicos (um grupo de átomos que contem carbono, que possui um ou mais elétrons livres)
+- Atração por catiões bi ou trivalentes  adsorvidos no complexo de troca. [[#^38c996]]
+- Através do Fe e do Al que a ela se encontram associados.
+
+**Calcário**
+- Através do Fe que os calcários têm como impureza
+
+
+
+#### Capacidade de retenção do P
+##### Quantidade e tipo de argila
+De maior quantidade até menor quantidade de capacidade de retenção:
+1) Alofana (mineraloide argiloso, basicamente um mineral de baixa cristalinidade ) e óxidos e hidróxidos amorfos de [[Alumínio|Al]], [[Ferro|Fe]], e [[Manganês|Mn]]
+2) Óxidos e hidróxidos cristalinos de  [[Alumínio|Al]], [[Ferro|Fe]], e [[Manganês|Mn]] 
+3) partículas de carbonatos
+4) minerais de argila do tipo 1:1 (ex: caulinite)
+5) minerais de argila tipo 2:1 (ex: esmectite)
+
+Pensa em qual destes é que tem a maior area onde o Fosforo pode se agarrar. Basicamente na bola né
+![[Pasted image 20260401190756.png]] 
+
+Gráfico mostra o pH do solo e a sua distribuição do fosforo. Basicamente, quão mais alto for o pH, mais precipitação pelo Ca e adsorção a carbonatos tem. 
+![[Pasted image 20260401190924.png]]
+
+##### Matéria orgânica
+
+A matéria orgânica retem algum fósforo: 
+- pela adsorção do *P* á superfície dos coloide orgânicos
+- **Formação de quelatos** (estruturas químicas que funcionam como uma garra, envolvendo um ião metálico central, um [[Micronutrientes|micronutriente]], com uma molécula orgânica, protegendo-o de reações indesejadas no solo )
+- Formando complexos com substâncias húmicas insolúveis. 
+
+**No entanto**
+- O *P* não fica fortemente retido
+- a matéria orgânica é decomposta/mineralizada libertando *P*
+- A matéria orgânica bloqueia os locais de adsorção de fósforo, nos coloides minerais(partículas inorgânicas extremamente pequenas geralmente argila ou óxidos), diminuindo a retenção de *P*
+
+A matéria orgânica aumenta a disponibilidade de fósforo para as plantas. 
+
+
 
 
 
