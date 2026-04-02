@@ -104,13 +104,12 @@ O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a 
 - Absorvido pelas plantas 
 - Imobilizados pelos microorganismos do solo
 - Perdidos por lixiviação
-- Perdiso por desnitrificação 
+- Perdido por desnitrificação 
 
- ~~*Fun fact - Ião nitrato é um vasodilatador utilizado para tratar angina do peito e disfunção eretil masculina*~~
-
+ 
 **Perdas por lixiviação** 
 
-Lixiviação é um processo natural que ocorre no solo, caracterizado pela remoção de nutrientes minerais solúveis das camaas superficiais para as camadas mais profundas do solo. Esta perda é causada pela ação da agua que se inflitra no solo, carregando consigo os elementos quimicos que foram dissolvidos.
+Lixiviação é um processo natural que ocorre no solo, caracterizado pela remoção de nutrientes minerais solúveis das camadas superficiais para as camadas mais profundas do solo. Esta perda é causada pela ação da agua que se infiltra no solo, carregando consigo os elementos químicos que foram dissolvidos.
 
 - NO$_3$$^-$ tem carga negativa porem não é adsorvido nos coloides do solo
 - NO$_3$$^-$ não precipita no solo (muito solovel em agua)
