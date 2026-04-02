@@ -1,7 +1,4 @@
-
-
-
---- 
+fosforoooo 
 # Cadeira : Nutrição Vegetal
 
 ## PDF - Fosforo no Solo
