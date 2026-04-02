@@ -1,7 +1,13 @@
-fosforoooo 
-# Cadeira : Nutrição Vegetal
+---
+
+---
+--- 
+Cadeira : Nutrição Vegetal
+
+--- 
 
 ## PDF - Fosforo no Solo
+Fosforo
 Nome dado a inúmeras combinações distintas de fosfatos, tendo sido descoberto em 1669 por Henning Brand. 
 
 Fosforo é um não metal, multivalente pertencente á serie química do nitrogênio (a primeira fila vertical) que se encontra na natureza combinado, formando fosfatos inorgânicos, inclusivos nos seres vivos. Não é encontrado no estado nativo por ser muito reativo, oxida-se espontaneamente em contato com o oxigênio no ar atmosférico, emitindo luz. (basicamente explode num flashang)
