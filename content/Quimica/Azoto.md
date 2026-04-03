@@ -61,7 +61,7 @@ Em consequência dos processos de adsorção no complexo de troca e de fixação
 
 
 
-**Perda por volatilização do amoníaco (NH$_3$)** 
+###### **Perda por volatilização do amoníaco (NH$_3$)** 
 
 Volatilização - passagem de uma substancia quimica do estado liquido ou sólido ao estado de gás ou vapor. 
 NH$_4$ + (aq) + OH <->  NH$_3$(aq) + H$_2$O
@@ -75,7 +75,7 @@ NH$_3$(aq) -> NH$_3$(g)
 	- presença de coloides no solo (perdas maiores em solos sem coloides)
 	- fontes de NH$_4$ como adubos, estrumes, etc, deixadas á superficie do solo.
 
-**Nitrificação**
+## **Nitrificação**
 
 Processo de oxidiação do amónio (NH$_3$/NH$_4$$^+$) para nitrato (NO$_3$$^-$). Este processo é feito pro micorganismos procariontes e ocorrem em duas etapas: nitritação e nitratação. Enquanto a primeira consiste da oxidação do amónio para nitrito (NO$_2$$^+$) e a segunda é a oxidação de nitrito para nitrato. 
 
@@ -90,7 +90,7 @@ O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a 
 	- atinge mais rápido as raízes
 	- facilmente perdido para agua de drenagem
 
-**Fatores que afetam nitrificação**
+###### **Fatores que afetam nitrificação**
 
 - A quantidade de oxigenio que é um parametro essencial para a nitrificação já que consentrações muito baisxad ++odem limitar parcial ou totalmente a sua ocorrencia. 
 - Tempratura - ideal 25-30º C, cessa a 0-5 ºC ou a 45-50 ºC. Apesar de ter influencia não é um fator limitante para a nitrificação, no entanto é mais significativo quando associado a outra variavel como a salinidade. 
@@ -99,7 +99,7 @@ O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a 
 - Reação do solo - mais favoravel na neutralidade ou seja pH 6-7. Bacterias não toleram solos acidos. Bacterias geralmene tem um melhor desenvolivmento em solos alcalinos e secos, exceto as bacterias *arqueas* que preferem solos ácidos e umidos pela sua afinidade ao oxigenio, que extraem da propria molecula de agua.
 
 
-**Ião Nitrato** (NO$_3$$^-$)
+###### **Ião Nitrato** (NO$_3$$^-$)
 
 - Absorvido pelas plantas 
 - Imobilizados pelos microorganismos do solo
@@ -107,7 +107,7 @@ O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a 
 - Perdido por desnitrificação 
 
  
-**Perdas por lixiviação** 
+##### **Perdas por lixiviação** 
 
 Lixiviação é um processo natural que ocorre no solo, caracterizado pela remoção de nutrientes minerais solúveis das camadas superficiais para as camadas mais profundas do solo. Esta perda é causada pela ação da agua que se infiltra no solo, carregando consigo os elementos químicos que foram dissolvidos.
 
@@ -129,7 +129,7 @@ A agricultura é uma das fontes de contaminação das aguas com azoto.
 Em Portugal as **perdas de nutrientes no solo são mais severas no Outono-Inverno e inicio da Primavera**, devido á maior quantidade de chuva e nitrificação de azoto numa época em que as culturas anuais estão ausentes/em estado muito jovem para absorver uma grande quantidade de nutrientes.
 Nisto é recomendado a aplicação fracionada do azoto as culturas, minimizando a sua aplicação á sementeira nas culturas de Outono-Inverno e fornecendo apensas quando as plantas tiverem capacidade de absorver. 
 
-**Perdas por desnitrificação** - N$_2$O(g) e N$_2$(g)
+##### **Perdas por desnitrificação** - N$_2$O(g) e N$_2$(g)
 
 Processo microbialmente facilitado em que o nitrato (NO$_3$$^-$) é reduzido até ao nitrogênio molecular (N$_2$)através de uma série de produtos gasoso intermediários de óxido de nitrogênio. 
 
@@ -152,7 +152,7 @@ As emissões de óxidos de nitrogênio (NO$_x$) são afetadas por
 - menor disponibilidade de N para a cultura
 - N$_2$O: contribui para chuvas acidas; gás efeito de estufa (100x superior a CO$_2$); leva a formação de ozono na baixa atmosfera; na alta atmosfera forma NO que destrói a camada de ozono. 
 
-#### Fixação biológica do Azoto
+## Fixação biológica do Azoto
 
 O processo de fixação do azoto é explicado como a combinação do azoto molecular (N$_2$), com o oxigênio ou hidrogênio para obter óxidos ou amónio que podem ser incorporados na biosfera. 
 
@@ -186,7 +186,7 @@ As bactérias penetram na raiz, causando a proliferação das células do córte
 *Nível baixo de fertilização*: não afeta a fixação mas pode na mesma estimulá-la. Fornecer o azoto necessário ás primeiras fases de desenvolvimento da planta, até o rizóbio se estabelecer e começar a fixar o azoto atmosférico até 20 kg N/ha. 
 *Nível alto de fertilização*: reduz a atividade da nitrogenase. A produção vegetal pode não ser afetada pois as plantas passam a utilizar o azoto mineral disponível, em vez de dependerem da fixação simbiótica. 
 
-**Deposição atmosférica de azoto** 
+## **Deposição atmosférica de azoto** 
 Compostos azotados existem na atmosfera que chegam ao solo por deposição de poeiras ou pela pluviosidade (quantidade de chuva que cai em determinada região).
 	- Nitrados formados na atmosfera a partir do azoto atmosférico (azoto molecular e óxidos de azoto) devido ás descargas elétricas durante trovoadas.
 	- amoníaco e compostos azotados existentes na atmosfera resultantes das emissões terrestres.
@@ -208,4 +208,67 @@ Fontes/Entradas
 	- orgânicos - sujeitos à mineralização/imobilização
 	- minerais - formas mais rapidamente disponíveis de N
 ---
+
+# PDF - Azoto na Planta
+
+
+O azoto faz parte de diversas estruturas moleculares orgânicas:
+- Aminoácidos
+- Clorofila
+- Ácidos Nucleicos = DNA e RNA
+- Componente estrutural de paredes celulares
+- Reguladores de crescimento
+
+### Absorção do Azoto
+- Pelas raízes - forma predominante 
+	- Ião amônio $NH_4^+$ 
+	- ião nitrato ($NO_3^-$)
+	- Pequenas moléculas orgânicas 
+- Pelas Folhas
+	- Amoníaco (NH$_3$)
+	- Dióxido de azoto (NO$_2$)
+	- Ureia ($CO(NH_2)_2$)
+	- Iões (adubação foliar, aplicação de nutrientes diretamente na folha levando a uma absorção rápida)
+
+#### Assimilação do ião amónio - $NH_4^+$
+
+Processo metabólico imporante nas plantas, onde o azoto inorganico absorvido do solo é incorporado em compostos organicos (aminoacidos) para o crescimento e desenvolvimento. Devido á toxicidade do amónio em altas conçentrações, pode dissipar gradientes de pH essenciais para a fotossintese e respiração.  
+
+![[Pasted image 20260403115203.png]] 
+
+Ácido glutâmico - precursor de clorofila e outros aminoácidos na planta. Importante no processo de germinação de sementes. Ajuda na nodulação e na fixação do nitrogênio. 
+
+Glutamina - Usada no transporte de nitrogênio para a parte aérea da planta.
+
+*Citosol* - porção liquida e gelatinosa do citoplasma, rica em água, iões, proteínas e nutrientes que preenche o volume celular. 
+Em solução aquosa (solução do solo e citosol das células), o ião amónio ($NH_4^+$) e o amoníaco ($NH_3^-$) estão em equilíbrio.  
+![[Pasted image 20260403115935.png]]
+
+O ião nitrato ($NO_3^-$) é inofensivo para as células e pode ser:
+- translocado para a parte aérea 
+- acumulado nos vacúolos
+
+![[Pasted image 20260403120734.png]]
+
+Explicação do gráfico: 
+
+Quanto as raízes absorvem o nitrato ($NH_3^-$) do solo, a própria raiz processa o nitrato inorgânico e transforma-o em *N* orgânico (aminoácidos e proteínas).
+
+N orgânico - No inicio a linda do *N* orgânico sobre rapidamente, significando que a raiz está a conseguir processar o nitrato que entra e é enviado (como aminoácido) pelo xilema acima.
+
+Ião Nitrato - Quando á nitrato em excesso e a raiz já esta a trabalhar no seu limite máximo, o nitrato é posto logo no xilema (num estado não processado, não como aminoácido). Porém, a linha continua a subir e excessivamente, sendo a planta a transportar grandes quantidades de ião nitrato puro diretamente para as folhas para serem elas a fazer o trabalho de o transformar em aminoácidos. 
+
+#### Assimilação do $NO_3^-$ 
+
+Redução do $NO_3^-$ a $NH_4^+$ pode ser feita nas raízes ou nas folhas. 
+
+Translocação e redução nas folhas ser+a maior
+- Grandes quantidades de ião nitrato
+- Plantas jovens (a redução é máxima em folhas em expansão)
+- Quando acompanhado do ião potássio
+
+
+
+
+
 #nutrição #quimica 
