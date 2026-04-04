@@ -267,6 +267,12 @@ Translocação e redução nas folhas ser+a maior
 - Plantas jovens (a redução é máxima em folhas em expansão)
 - Quando acompanhado do ião potássio
 
+Risco de acumulação $NO_3^-$ nas folhas: 
+- O $NO_3^-$ acumulado nos vacúolos duma folha expandida pouco contributo para a nutrição da planta, por quanto a saída é lenta e o iao não é móvel no floema. 
+- Redução da qualidade do produtos.  
+- Em excesso, as pontas das folhas ficam "queimadas" pela deficiência na absorção de agua
+
+A redução de $NO_3^-$ a $NH_4^+$ +e favorecida quando há fotossintese. Menor fotossintese origina maiior acumulação de nitratos nas folhas.
 
 
 
