@@ -1,3 +1,10 @@
+---
+tags:
+  - nutrição
+  - quimica
+---
+
+--- 
 #### PDF - Azoto no Solo - Nutrição Vegetal
 Um [[Macronutrientes|macronutriente]] principal, que limita o crescimento e produção vegetal. Os efeitos visíveis numa planta são:
 - mais folhas
@@ -293,9 +300,50 @@ O amoníaco e ião amónio estão em equilíbrio em solução aquosa.
 ##### Azoto amoniacal *vs* nítrico 
 
 Plantas adaptadas a condições em que, pelas características do solo, a [[#^330710|nitrificação]] é lenta ou não ocorre, preferem o azoto amoniacal: 
-- espécies adaptadas a solos ácidos - calcífugas - como o mirtilo e a batateira
-- espécies adaptadas a solos com 
+- espécies adaptadas a solos ácidos, calcífugas, como o mirtilo e a batateira
+- espécies adaptadas a solos com baixos potencial redox (solos alagados) como o arroz.
 
+*Potencial Redox - mede a tendencia que uma substância ganha eletrões (redução) ou perde eletrões (Oxidação)*
+
+Plantas adaptadas a condições em que a nitrificação ocorre, preferem azoto nítrico ($NO_3^-$):
+- espécies adaptadas a solos neutros
+- espécies adaptadas a solos calcários (calcícolas)
+
+Fornecimento de grandes quantidades de $NH_4^+$ (Amónio):
+	- Absorção $NH_4^-$ leva à acidificação rizosfera (região onde o solo e as raízes das plantas entram em contacto)
+	- Forma-se $NH_3$ que penetra nas células por difusão, perturbando o metabolismo
+	- Antagonismo iónico com outros catiões
+	- Assimilação na raiz -> gasto elevado de esqueletos, carbonados e ATP na raiz -> aumento do metabolismo da raiz e consumo de glúcidos
+	- Assimilação do $NH_4^+$ acidifica o citosol -> degradação de ácidos orgânicos para aumentar pH -> Ácidos orgânicos são necessários para o crescimento.
+	- Ião nitrato é necessário á planta, osmorregulação e contra-ião de catiões xilema. 
+
+**Na maioria das situações, as plantas crescem melhor se utilizarem duas formas de azoto**, causando menor variação do pH na rizosfera, mais fácil controlar pH celular, e produzem nível adequado de ácidos orgânicos. 
+
+#### Remobilização do azoto 
+
+O azoto (N) é móvel no floema.
+
+As proteínas das folhas senescentes (folhas envelhecidas que geralmente mudam de cor, pensa na primavera) são degradadas e as formas solúveis de *N* são remobilizadas para as zonas de crescimento. Em outras palavras. As folhas caem no chão, degradam-se e tornam-se azoto, continuando o ciclo interno do azoto. 
+
+
+#### Deficiência de azoto na Planta
+Teores normais de *N* pelo ar, 20-50 g *N* $kg^-1$ MS
+
+- Crescimento muito afetado - plantas ficam mais pequenas e folhas com menor dimensão. [[sistema radicular]] pouco desenvolvido.
+- Menor razão parte aérea/raiz - a parte aerea da planta tende a ser menor do que a raiz, sendo que a planta dá prioridade ao crescimento da raiz com pouco azoto. 
+- Remobilização do azoto - remobilização do azoto de folhas maduras para as regiões mais jovens da planta. Isto causa o emurchamento precoce das folhas mais velhas. 
+- Clorose (falta de produção de clorofila nas folhas) uniforme das folhas das folhas mais velhas
+- Maturação precoce, com produção e qualidade reduzidas. 
+
+#### Excesso de Azoto
+
+- Crescimento vegetativo excessivo (mais folhas), menor frutificação e atraso na maturação.
+- Folhas e caules mais finos e resistentes - maior suscetibilidade a pragas e doenças, seca e geada (arrefecimento abaixo de 0º).
+- Redução da floração e de produção de sementes. 
+- Redução de qualidade dos produtos:
+	- maior teor de compostos azotados de baixa massa molar e de ião nitrato. Nitratos nas folhas de espinafre e alface são prejudiciais para a saúde humana.
+	- Menor teor de glúcidos (menor grau alcoólico nos vinhos, menor teor de açúcar na beterraba sacarina, pior qualidade do trigo e cevada)
+- Clorose(falta de produção de clorofila nas folhas) ou necrose das margens e extremidades das folhas.
 
 
 #nutrição #quimica 

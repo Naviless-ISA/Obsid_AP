@@ -1,8 +1,8 @@
 ---
-
+tags:
+  - nutrição
+  - quimica
 ---
---- 
-Cadeira : Nutrição Vegetal
 
 --- 
 
