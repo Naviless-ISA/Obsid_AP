@@ -1,4 +1,4 @@
-#### PDF - Azoto no Solo
+#### PDF - Azoto no Solo - Nutrição Vegetal
 Um [[Macronutrientes|macronutriente]] principal, que limita o crescimento e produção vegetal. Os efeitos visíveis numa planta são:
 - mais folhas
 - mais caules
@@ -67,7 +67,7 @@ Volatilização - passagem de uma substancia quimica do estado liquido ou sólid
 NH$_4$ + (aq) + OH <->  NH$_3$(aq) + H$_2$O
 NH$_3$(aq) -> NH$_3$(g)
 **Fatores**:
-	- O teor de NH$_4$$^+$ (as perdas aumentam, quando o teor no solo é elevado) 
+	- O teor de $NH_4^+$  (as perdas aumentam, quando o teor no solo é elevado) 
 	- o pH do solo (mais perca quando o pH é alto, solos calcários)
 	- humidade do solo (mais perca em solo demasiado seco)
 	- tempratura ambiente (tempratura elevada diminui a solubilidade do amoníaco em água)
@@ -267,12 +267,6 @@ Translocação e redução nas folhas ser+a maior
 - Plantas jovens (a redução é máxima em folhas em expansão)
 - Quando acompanhado do ião potássio
 
-Risco de acumulação $NO_3^-$ nas folhas: 
-- O $NO_3^-$ acumulado nos vacúolos duma folha expandida pouco contributo para a nutrição da planta, por quanto a saída é lenta e o iao não é móvel no floema. 
-- Redução da qualidade do produtos.  
-- Em excesso, as pontas das folhas ficam "queimadas" pela deficiência na absorção de agua
-
-A redução de $NO_3^-$ a $NH_4^+$ +e favorecida quando há fotossintese. Menor fotossintese origina maiior acumulação de nitratos nas folhas.
 
 
 
