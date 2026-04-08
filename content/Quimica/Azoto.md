@@ -77,6 +77,8 @@ NH$_3$(aq) -> NH$_3$(g)
 
 ## **Nitrificação**
 
+^330710
+
 Processo de oxidiação do amónio (NH$_3$/NH$_4$$^+$) para nitrato (NO$_3$$^-$). Este processo é feito pro micorganismos procariontes e ocorrem em duas etapas: nitritação e nitratação. Enquanto a primeira consiste da oxidação do amónio para nitrito (NO$_2$$^+$) e a segunda é a oxidação de nitrito para nitrato. 
 
 2NH$_4$$^+$(g) + 3O$_2$ -> 2NO$_2$$^-$ + 4H$^+$ + 2H$_2$O + energia  ------ Bactéria *Nitrosomonas*
@@ -262,12 +264,37 @@ Ião Nitrato - Quando á nitrato em excesso e a raiz já esta a trabalhar no seu
 
 Redução do $NO_3^-$ a $NH_4^+$ pode ser feita nas raízes ou nas folhas. 
 
-Translocação e redução nas folhas ser+a maior
+Translocação e redução nas folhas será maior
 - Grandes quantidades de ião nitrato
 - Plantas jovens (a redução é máxima em folhas em expansão)
-- Quando acompanhado do ião potássio
+- Quando acompanhado do ião potássio 
+
+*Vacúolos - organela citoplasmáticas membranosas comuns em plantas, essenciais para o armazenamento de substancias, regulaçao osmótica e digestão intracelular*   
+Risco de acumulação $NO_3^-$ nas folhas:
+- O $NO_3^-$ acumulados nos vacúolos duma folha expandida pouco contribui para a nutrição da planta porque a saída é lenta e o ião não é móvel no floema.
+- Redução da qualidade do produtos (alface, espinafre, forragens)
+
+A redução do $NO_3^-$ a $NH_4^+$ é favorecido **quando há fotossíntese**. Menor fotossíntese origina maior acumulação de nitratos ($NH_4^+$) nas folhas:
+- durante a noite a manhã
+- no inverno
+- em dia nublados
+
+##### Ureia
+
+Um adubo nitrogenado (44-46% de nitrogênio) que promove rápido crescimento, folhas verdes e resistência a pragas. É altamente solúvel e ideal para repor nitrogênio.
+
+Após absorção a ureia é rapidamente convertida a amoníaco 
+![[Pasted image 20260408123200.png]]
+
+O amoníaco e ião amónio estão em equilíbrio em solução aquosa.
+![[Pasted image 20260408123329.png]]
 
 
+##### Azoto amoniacal *vs* nítrico 
+
+Plantas adaptadas a condições em que, pelas características do solo, a [[#^330710|nitrificação]] é lenta ou não ocorre, preferem o azoto amoniacal: 
+- espécies adaptadas a solos ácidos - calcífugas - como o mirtilo e a batateira
+- espécies adaptadas a solos com 
 
 
 
