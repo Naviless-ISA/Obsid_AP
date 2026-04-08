@@ -54,16 +54,16 @@ Iões fosfato -> P Orgânico
 
 Quando um material orgânico é apicado no solo (sendo excremento de um animal ou um animal morto) a disponibilização de fosforo mineral para as plantas depende do balanço entre a mineralização e a imobilização.
 
-Pouco frequentemente, poderá acontecer imobilização liquida de fosforo (ou seja o fosforo é convertido de [[Materia Organica|matéria orgânica]] para matéria inorgânica sendo indisponível para as plantas), se a razão C/P do material orgânico aplicado for superior a cerca do 300.
+Pouco frequentemente, poderá acontecer imobilização liquida de fosforo (ou seja o fosforo é convertido de [[Matéria Orgânica|matéria orgânica]] para matéria inorgânica sendo indisponível para as plantas), se a razão C/P do material orgânico aplicado for superior a cerca do 300.
 
 **RAZÃO C/P - VALOR CRITICO = 300 **
 
-A razão C/P é um indicador da qualidade orgânica, indicando a proporção entre o carbono orgânico total e o fosforo orgânico. Esta relação determina se o fosforo será mineralizado (libertado para as plantas) ou imobilizado (retido por microrganismos) durante a decomposição de [[Materia Organica|matéria orgânica]]
+A razão C/P é um indicador da qualidade orgânica, indicando a proporção entre o carbono orgânico total e o fosforo orgânico. Esta relação determina se o fosforo será mineralizado (libertado para as plantas) ou imobilizado (retido por microrganismos) durante a decomposição de [[Matéria Orgânica|matéria orgânica]]
 
 Solos com uma razão muito alta (>=200) indicam deficiência de fosforo, fazendo como que os microrganismos imobilizam o *P* disponível para decompor o carbono 
 excessivo, tornando o fosforo indisponível para as plantas
 
-Solos com uma baixa razão (<=100) indica um solo com boa fertilidade ou alot teor de *P* instável (em forma iônica) onde a decomposição de [[Materia Organica|matéria orgânica]] libera *P* mais facilmente. 
+Solos com uma baixa razão (<=100) indica um solo com boa fertilidade ou alot teor de *P* instável (em forma iônica) onde a decomposição de [[Matéria Orgânica|matéria orgânica]] libera *P* mais facilmente. 
 
 --- 
 Na solução do solo o fósforo encontra-se principalmente nestas formas:
@@ -104,7 +104,7 @@ Também é adsorvido á superfície dos carbonatos .
 ![[Pasted image 20260401182836.png]]
 #### Adsorção dos iões fosfatos
 
-*Adsorção (quando se fala no solo) - Adesão de iões e moléculas da solução do solo á superfície dos coloides (argilas e [[Materia Organica|matéria orgânica]]), fundamental para nutrição das plantas e retenção de poluentes*
+*Adsorção (quando se fala no solo) - Adesão de iões e moléculas da solução do solo á superfície dos coloides (argilas e [[Matéria Orgânica|matéria orgânica]]), fundamental para nutrição das plantas e retenção de poluentes*
 
 Iões fosfato são atraídos para a superfície dos colóides por:
 - catiões bi ou trivalente adsorvidos no complexo de troca
@@ -146,14 +146,14 @@ Gráfico mostra o pH do solo e a sua distribuição do fosforo. Basicamente, qu�
 
 ##### Matéria orgânica
 
-A [[Materia Organica|matéria orgânica]] retem algum fósforo: 
+A [[Matéria Orgânica|matéria orgânica]] retem algum fósforo: 
 - pela adsorção do *P* á superfície dos coloide orgânicos
 - **Formação de quelatos** (estruturas químicas que funcionam como uma garra, envolvendo um ião metálico central, um [[Micronutrientes|micronutriente]], com uma molécula orgânica, protegendo-o de reações indesejadas no solo ) ^ ^8af701
 - Formando complexos com substâncias húmicas insolúveis. 
 
 **No entanto**
 - O *P* não fica fortemente retido
-- a [[Materia Organica|matéria orgânica]] é decomposta/mineralizada libertando *P*
+- a [[Matéria Orgânica|matéria orgânica]] é decomposta/mineralizada libertando *P*
 - A matéria orgânica bloqueia os locais de adsorção de fósforo, nos coloides minerais(partículas inorgânicas extremamente pequenas geralmente argila ou óxidos), diminuindo a retenção de *P*
 
 A matéria orgânica aumenta a disponibilidade de fósforo para as plantas. 
@@ -198,7 +198,7 @@ Consequências práticas em termos de fertilização:
 Correção da acidez: 
 - **Reduz a atividade do [[Alumínio|Al]], [[Ferro|Fe]], e [[Manganês|Mn]], diminuindo a precipitação do *P*** (Quando o pH é aumentado, estes metais reagem com a água e formam hidróxidos sólidos. Eles "auto-precipitam", saindo da solução e deixado o *P* disponível para as plantas)
 - **Diminui a adsorção do** **P** (A aumentar a quantidade de iões hidroxilo (OH$^-$). A superfície das partículas do solo começa a ficar com cargas negativas, e como negativo-negativo repela-se do solo repele o *P*, soltando-o para a água do solo)
-- **Aumenta a mineralização da [[Materia Organica|matéria orgânica]]**. (Quando o pH encontra-se neutro (6-7) o ambiente é o ideal para a vida microbiana. Começam a decompor a matéria orgânica a grande velocidades (mineralização) e libertam o *P*, transformando-o em Fósforo inorgânico.) 
+- **Aumenta a mineralização da [[Matéria Orgânica|matéria orgânica]]**. (Quando o pH encontra-se neutro (6-7) o ambiente é o ideal para a vida microbiana. Começam a decompor a matéria orgânica a grande velocidades (mineralização) e libertam o *P*, transformando-o em Fósforo inorgânico.) 
 
 Correção da alcalinidade (geralmente pouco viável):
 - **Reduz a atividade do Ca, diminuindo a precipitação do *P*** ( Quando se acidifica o solo, o ambiente mais acido dissolve compostos de cálcio recém formados, voltando a separar o cálcio do fósforo, e deixando o *P* livre na solução do solo)
@@ -237,8 +237,26 @@ Algumas das lagoas nos Açores, estão em estado avançado de eutrofização (en
 Estes elementos atingem as lagoas por escoamento superficial das encostas que as circundam: 
 - fertilizantes aplicados nas pastagens
 - dejectos dos animais em pastoreio. 
-
 --- 
+## PDF Fósforo na Planta - Nutrição Vegetal
+
+Fosforo é um [[Macronutrientes|macronutriente]] essencial para a transferência de energia (ATP), fotossíntese, divisão celular e desenvolvimento das raízes
+
+#### Absorção do fósforo pelas plantas
+
+O fosforo é absorvido nas formas de:
+- Ião dihidrogenofosfato ($H_2PO_4^-$) - componente chave da molécula de ATP, essencial para a fotossintese, respiração e transporte de nutrientes.
+- Ião hidrogenofosfato ($HPO_4^2$$^-$) - tambem um componente fundamental na ATP.
+- Pequenas moléculas orgânicas.
+![[Pasted image 20260408163401.png]]
+
+
+#### Assimilação do Fósforo
+
+O processo pelo qual plantas absorvem o fósforo inorgânico do ambiente e o convertem em compostos orgânicos essenciais. 
+
+O fósforo é assimilado na **raiz** ou após transporte para a parte aérea. Não implica "redução" como no [[Azoto|azoto]] e [[Carbono|carbono]]. Nas plantas o fosforo é encontrado em varias formas: 
+- Ião $H_2PO_4^-$ / $HPO_4^2$$^-$ 
 
 
 

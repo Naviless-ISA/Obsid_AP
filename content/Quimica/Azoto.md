@@ -13,20 +13,20 @@ Um [[Macronutrientes|macronutriente]] principal, que limita o crescimento e prod
 - Folhas com a cor verde "mais intensa"
 
 ##### Azoto Orgânico 
-O azoto orgânico (N$_Org$)) é um constituinte importante da [[Materia Organica|materia orgánica]]  do [[Solo|solo]], e tem uma função importante no ciclo do azoto no solo e na produção vegetativa. Para o azoto orgânico poder ser absorvido pelas plantas, tem que passar por um processo de **mineralização**, uma consequência da atividade microbiana do [[Solo|solo]]. 
+O azoto orgânico ($N(org)$) é um constituinte importante da [[Matéria Orgânica|materia orgánica]]  do [[Solo|solo]], e tem uma função importante no ciclo do azoto no solo e na produção vegetativa. Para o azoto orgânico poder ser absorvido pelas plantas, tem que passar por um processo de **mineralização**, uma consequência da atividade microbiana do [[Solo|solo]]. 
 
 **Mineralização do azoto orgânico:**
 	Aminização -  residuos biologicos em matéria prima são partidos em blocos pequenos e depois libertados para a vida no solo. Uma maneira de decomposição de matéria viva do solo. 
 		moléculas orgânicas azotadas complexas -> R-NH$_2$ + CO$_2$ + energia + outros produtos.
-	Amonificação - Azoto ligado organicamente sob a forma de pr´teinas, aminoácidos ou ácidos nucleicos é convertido num amoníaco (NH$_3$) ou amónio (NH$_3$$^2$$^+$   $NH_3^2+$)
+	Amonificação - Azoto ligado organicamente sob a forma de pr´teinas, aminoácidos ou ácidos nucleicos é convertido num amoníaco (NH$_3$) ou amónio (NH$_3^2$$^+$ +  $NH_3^2+$)
 		R-NH$_2$ + H$_2$O -> NH$_3$ + R-OH + Energia
-		NH$_3$ + H$_2$O <-> NH$_4$$^+$ + OH 
+		NH$_3$ + H$_2$O <-> $NH_4^+$ + OH 
 
 **Imobilização de azoto**
-	Os produtos de mineralização ( NH$_4$$^+$ e NO$_3$$^+$) são reutilizados pelos microorganismos:
+	Os produtos de mineralização (  $NH_4^+$ e $NO_3^+$) são reutilizados pelos microorganismos:
 		- síntese de compostos integrantes do tecido microbiano
 		- integrados na matéria orgânica não celular. 
-		Os microorganismos do solo como as bactérias e fungos assimilam o azoto inorgânico disponível na solução do [[Solo|solo]], ( NH$_4$$^+$ e NO$_3$$^+$) e convertem em compostos orgânicos, incorporado na sua biomassa celular (em proteínas e ácidos nucleicos) 
+		Os microorganismos do solo como as bactérias e fungos assimilam o azoto inorgânico disponível na solução do [[Solo|solo]], ( $NH_4^+$ e $NO_3^-$) e convertem em compostos orgânicos, incorporado na sua biomassa celular (em proteínas e ácidos nucleicos) 
 
 **Balanço** 
 O balanço entre a mineralização e a imobilização determina as quantidades de azoto mineral que vai ficar disponível para as plantas. Este balanço referenciado tem correlação com a **razão C/N**. A razão entre o teor de carbono e azoto no solo. 
@@ -86,13 +86,13 @@ NH$_3$(aq) -> NH$_3$(g)
 
 ^330710
 
-Processo de oxidiação do amónio (NH$_3$/NH$_4$$^+$) para nitrato (NO$_3$$^-$). Este processo é feito pro micorganismos procariontes e ocorrem em duas etapas: nitritação e nitratação. Enquanto a primeira consiste da oxidação do amónio para nitrito (NO$_2$$^+$) e a segunda é a oxidação de nitrito para nitrato. 
+Processo de oxidiação do amónio (NH$_3$/$NH_4^+$) para nitrato ($NO_3^-$). Este processo é feito pro micorganismos procariontes e ocorrem em duas etapas: nitritação e nitratação. Enquanto a primeira consiste da oxidação do amónio para nitrito (NO$_2$$^+$) e a segunda é a oxidação de nitrito para nitrato. 
 
-2NH$_4$$^+$(g) + 3O$_2$ -> 2NO$_2$$^-$ + 4H$^+$ + 2H$_2$O + energia  ------ Bactéria *Nitrosomonas*
-2NO$_2$$^-$ + O$_2$ -> 2NO$_3$$^-$ + energia ----- Bactéria *Nitrobacter*
+2$NH_4^+$(g) + 3O$_2$ -> 2NO$_2$$^-$ + 4H$^+$ + 2H$_2$O + energia  ------ Bactéria *Nitrosomonas*
+2NO$_2$$^-$ + O$_2$ -> 2$NO_3^-$ + energia ----- Bactéria *Nitrobacter*
 
-É um processo rápido, onde o NH$_4$$^+$ que não é absorvido pelas plantas é em poucos dias convertido em NO$_3$$^-$.
-A conversão de NO$_2$$^-$ (ião nitrito) em NO$_3$$^-$ (ião nitrato) é normalmente muito rápida, não havendo acumulação de NO$_2$$^-$ no solo (que é toxico)
+É um processo rápido, onde o $NH_4^+$ que não é absorvido pelas plantas é em poucos dias convertido em $NO_3^-$.
+A conversão de NO$_2$$^-$ (ião nitrito) em $NO_3^-$ (ião nitrato) é normalmente muito rápida, não havendo acumulação de NO$_2$$^-$ no solo (que é toxico)
 Formam-se pequenas quantidades dos gases N20 e NO que se libertam para a atmosfera
 É um processo **acidificante**, produzindo iões hidrogénio.
 O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a ser adsorvido na matriz do solo e não formar compostos insolúveis.
@@ -103,12 +103,12 @@ O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a 
 
 - A quantidade de oxigenio que é um parametro essencial para a nitrificação já que consentrações muito baisxad ++odem limitar parcial ou totalmente a sua ocorrencia. 
 - Tempratura - ideal 25-30º C, cessa a 0-5 ºC ou a 45-50 ºC. Apesar de ter influencia não é um fator limitante para a nitrificação, no entanto é mais significativo quando associado a outra variavel como a salinidade. 
-- A presença de NH$_4$$^+$ - bactérias quimioautotróficas usam NH$_4$$^+$ como fonte de energia
+- A presença de $NH_4^+$ - bactérias quimioautotróficas usam $NH_4^+$ como fonte de energia
 - A presençade nutrientes como Calcio e Magnésio
 - Reação do solo - mais favoravel na neutralidade ou seja pH 6-7. Bacterias não toleram solos acidos. Bacterias geralmene tem um melhor desenvolivmento em solos alcalinos e secos, exceto as bacterias *arqueas* que preferem solos ácidos e umidos pela sua afinidade ao oxigenio, que extraem da propria molecula de agua.
 
 
-###### **Ião Nitrato** (NO$_3$$^-$)
+###### **Ião Nitrato** ($NO_3^-$)
 
 - Absorvido pelas plantas 
 - Imobilizados pelos microorganismos do solo
@@ -120,13 +120,13 @@ O ião nitrato (NO$_2$$^-$) é mais móvel nos solos, por não ter tendencias a 
 
 Lixiviação é um processo natural que ocorre no solo, caracterizado pela remoção de nutrientes minerais solúveis das camadas superficiais para as camadas mais profundas do solo. Esta perda é causada pela ação da agua que se infiltra no solo, carregando consigo os elementos químicos que foram dissolvidos.
 
-- NO$_3$$^-$ tem carga negativa porem não é adsorvido nos coloides do solo
-- NO$_3$$^-$ não precipita no solo (muito solovel em agua)
+- $NO_3^-$ tem carga negativa porem não é adsorvido nos coloides do solo
+- $NO_3^-$ não precipita no solo (muito solovel em agua)
 	- Ião movel no solo
 		- Arrastado pela agua de percolação
 
 Dependencias da lixivação
-	- quantidade de NO$_3$$^-$ presente no solo
+	- quantidade de $NO_3^-$ presente no solo
 	- quantidade de água filtrada/passada por uma substancia porosa (solo) (precipitação, rega)
 	- capacidade de armazenamento de água no solo
 
@@ -140,7 +140,7 @@ Nisto é recomendado a aplicação fracionada do azoto as culturas, minimizando 
 
 ##### **Perdas por desnitrificação** - N$_2$O(g) e N$_2$(g)
 
-Processo microbialmente facilitado em que o nitrato (NO$_3$$^-$) é reduzido até ao nitrogênio molecular (N$_2$)através de uma série de produtos gasoso intermediários de óxido de nitrogênio. 
+Processo microbialmente facilitado em que o nitrato ($NO_3^-$) é reduzido até ao nitrogênio molecular (N$_2$)através de uma série de produtos gasoso intermediários de óxido de nitrogênio. 
 
 As emissões de óxidos de nitrogênio (NO$_x$) são afetadas por 
 	- concentrações de iões nitrato e nitrito no solo - libertação de N$_2$O favorecida quando o nivel destes iões é alto.
@@ -151,7 +151,7 @@ As emissões de óxidos de nitrogênio (NO$_x$) são afetadas por
 
 
 **A taxa de desnitrificação depende:**
-- quantidade de NO$_3$$^-$ presente
+- quantidade de $NO_3^-$ presente
 - presença de matéria orgânica lábil (que se decompõe facilmente e é quimicamente instável)
 - temperatura - ideal entre os 25-35º
 - condições de anaerobiose do solo 
@@ -165,7 +165,7 @@ As emissões de óxidos de nitrogênio (NO$_x$) são afetadas por
 
 O processo de fixação do azoto é explicado como a combinação do azoto molecular (N$_2$), com o oxigênio ou hidrogênio para obter óxidos ou amónio que podem ser incorporados na biosfera. 
 
-Alguns microrganismos procarióticos (bactérias, actinomicetas e cianobactérias) conseguem fixar o azoto molecular (N$_2$) da atmosfera. e converte-lo em NH$_3$/NH$_4$$^+$ que pode ficar disponível para as plantas e outros organismos do solo. 
+Alguns microrganismos procarióticos (bactérias, actinomicetas e cianobactérias) conseguem fixar o azoto molecular (N$_2$) da atmosfera. e converte-lo em NH$_3$/$NH_4^+$ que pode ficar disponível para as plantas e outros organismos do solo. 
 
 Estes microrganismos podem: 
 - ser foto-autotróficos (fixam CO$_2$ através da fotossíntese)
