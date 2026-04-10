@@ -288,6 +288,8 @@ A redução do $NO_3^-$ a $NH_4^+$ é favorecido **quando há fotossíntese**. M
 
 ##### Ureia
 
+^b70057
+
 Um adubo nitrogenado (44-46% de nitrogênio) que promove rápido crescimento, folhas verdes e resistência a pragas. É altamente solúvel e ideal para repor nitrogênio.
 
 Após absorção a ureia é rapidamente convertida a amoníaco 
