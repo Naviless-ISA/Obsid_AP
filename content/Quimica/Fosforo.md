@@ -256,8 +256,82 @@ O fosforo é absorvido nas formas de:
 O processo pelo qual plantas absorvem o fósforo inorgânico do ambiente e o convertem em compostos orgânicos essenciais. 
 
 O fósforo é assimilado na **raiz** ou após transporte para a parte aérea. Não implica "redução" como no [[Azoto|azoto]] e [[Carbono|carbono]]. Nas plantas o fosforo é encontrado em varias formas: 
-- Ião $H_2PO_4^-$ / $HPO_4^2$$^-$ 
+- Ião $H_2PO_4^-$ / $HPO_4^2$$^-$  livre - designado *Pi* (Fosfato inorgânico)
+- Unidos a molécula por :
+	  - [[Ligação éster]] C-O-P
+	  - Duas [[Ligação éster|ligações éster]] C-O-P-O-C
+	  - Ligações pirofosfato P~P~P
 
+
+#### Fósforo na planta
+
+O Fósforo na planta faz parte da estrutura de diferentes compostos: 
+- Ácidos Nucleicos - DNA e RNA 
+- Fósfoslipidos - formam a membrana celular
+- Nucleótidos - As unidades basicas do DNA e RNA
+- Açucares-fosfatos - ATP e ADP, transporte de energia na planta
+- Coenzimas - (NADPH, NADH) - ajudam enzimas a funcionar, envolvidas em reações de oxidação-redução
+
+##### Fosforo de reserva
+
+- Fosfato Inorgânico ($H_2PO_4^-$ / $HPO_4^2$$^-$ ) nos vacúolos (compartimentos de armazenamento na célula vegetal)
+- **Polifosfatos**
+	- Polímeros lineares de *Pi*
+	- 500 ou mais monômeros (pequenas moléculas, com baixo peso molecular, que se ligam covalentemente entre si através de um processo chamado polimerização.)
+	- Ligações pirofosfato (reserva energia)
+- **Fitatos nas sementes** 
+	- forma de *P* armenezado nas sementes
+	- O *P* é libertado na [[Germinação|germinação]] - *fitases*
+	- Baixa solubilidade
+	- *P* pouco disponível para os animais monogástricos (Animais com um só estômago, não compartimentado, como os suinos, aves, gatos, cães, e humanos).
+
+##### Regulação da fotossíntese e repartição glúcidos
+
+*Pi* no cloroplasto:
+- estimula a fotossíntese
+- transporte de trioses-P (açúcares simples com trés átomos de carbono) para citosol (parte liquida/semigelatinosa do citoplasma que envolve as organelas de células eucarióticas)
+- inibe a formação de amido no cloroplasto (Amido é formado a partir de trioses-P mas quando existe excesso de *Pi* as trioses-P são exportadas e inibe as enzimas de síntese de amido. Basicamente, menos amido e mais sacarose exportada)
+
+**As trioses fosfatos (trisoses-P) são usadas para a síntese dos outros glúcidos (como a sacarose) necessários à planta/transportados para os diferentes órgão**
+
+****Vejam o slide do PPT para o diagrama****
+
+
+#### Importância do Fósforo
+
+- Divisão celular - síntese de ácidos nucleicos
+- Contribui para a precocidade - desenvolvimento mais rápido
+- Promove tolerância a pragas e doenças - tanto radiculares como no caule e folha
+- Favorece os fenómenos referentes á floração, frutificação e maturação (qualidade de semente e frutos)
+- Controla a fotossíntese e a repartição dos glúcidos, contribuindo para o aumentos dos glúcidos de reserva - sacarose na cana de açúcar, amido na batata, fructose nas frutas. 
+- Frutas e tubérculos de maior dimensão 
+- Essencial para o rizóbio (nódulos e capacidade fixadora) - importância nas leguminosas, que são mais exigentes que as gramíneas. 
+
+#### Deficiência de Fósforo
+- Crescimento de toda a planta é afetado - em particular na parte aérea (na quantidade de folhas e na sua área)
+- Menor razão parte aérea/raiz - a parte aérea fica mais pequena se houver menos fosforo, dado que a planta dá prioridade á raiz
+- Desenvolvimento atrasado, floração mais tardia e formação de sementes afetada (menor enchimento nas sementes, menor viabilidade e menor produção)
+- Menor teoro de glúcidos de reserva
+- Remobilização do fósforo das folhas madras para regiões mais jovens
+- Folhas mais escuras pela acumulação de glúcidos nas folhas, podendo haver acumulação de antocianinas
+
+Sintomas **mais pronunciados nas folhas mais velhas**, mas que espalham-se rapidamente, acabando por afetar a planta toda. Plantas de cor verde mais escuro, pecíolos (a estrutura que liga a folha ao caule), caule e folhas basais de cor vermelho a roxo
+
+As raízes das plantas libertam para a rizosfera: 
+- enzimas fosfatases e RNAses - hidrolisam o fósforo orgânico do solo
+- Ácidos orgânicos 
+	- Acidificam a rizosfera
+	- solubilizam os fosfatos em solos alcalinos
+	- Quelatizam o [[Alumínio|Al]] e o [[Ferro|Fe]] (solos ácidos) e o [[Calcio|Ca]] (Solos alcalinos), solubilizando o *P*
+- Compostos fénolicos
+	- Quelatizam o [[Alumínio|Al]] e o [[Ferro|Fe]] (solos ácidos) e o [[Calcio|Ca]] (Solos alcalinos), solubilizando o *P*
+#### Excesso de Fósforo
+
+
+- Alta razão parte aérea/raiz
+- Deficiência induzida de [[Zinco]] e [[Ferro]] 
+- Inibe a micorrização (Simbiose mutua entre fungos e raízes de planta onde o fungo obtêm carboidratos e aminoácidos da planta, enquanto a planta expande a rede radicular para absorver mais água, fósforo e nutrientes)
+- Necrose das extremidades  e margens da folha. 
 
 
 
