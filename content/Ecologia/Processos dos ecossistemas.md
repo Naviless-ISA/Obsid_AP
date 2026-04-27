@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Os processos dos [[Ecossitemas|ecossistemas]] são os fluxos de matéria e energia entre compartimentos dos ecossistemas. **Todas as compmnentes biológicas estão ligadas.** 
 
 - **Fluxo de energia (unidirecional)**: Energia solar é captada pelos [[Ecossitemas#Composição|produtores]] através da fotossíntese e flui atraves dos niveis tróficos numa única direção. 

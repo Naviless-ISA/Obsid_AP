@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Ecótonos/Orla consistem em áreas de transição ambiental, onde dois [[Ecossitemas|ecossistemas]] entram em contacto. Esses locais são formados pelas fronteiras de diferentes [[Comunidade|comunidades]] fechadas. Assim, algumas espécies de cada uma dessas  [[Comunidade|comunidades]] atingem os seus limites de distribuição na região de ecótono, pois geralmente não são adaptadas para sobreviver no ecossistema que se segue. Porém, outras espécies possuem maior tolerância ambiental e a sua distribuição pode se estender através da região de ecótono e ainda incluir o ecossistema vizinho. 
 
 Os ecótonos são muitas vezes formados por diferenças de fatores ambientais de duas áreas, como tipo de [[Solo|solo]] e índice de chuvas. A distribuição das espécies é determinada por esses fatores ambientais e pelas próprias interações entre as espécies, como a competição e predação. 

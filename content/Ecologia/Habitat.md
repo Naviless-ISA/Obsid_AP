@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Conjunto de recursos, fatores bióticos que se repetem num dado espaço, que apoiam a sobrevivência e reprodução de uma [[Espécie|espécie]] especifica. Podem ser extensos e uniformes mas normalmente existem em [[Mosaicos Ecológicos|mosaicos]] e misturados, sendo adequados para certas especies. 
 
 O habitat faz parte de um [[Nicho Ecologico|nicho ecológico]] de cada especie que lhe contem. 

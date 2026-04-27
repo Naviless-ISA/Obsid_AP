@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 A ecologia é uma ciencia que estuda a interação entre os seres vivos, a sua distribuição e o abiente em que vivem. 
 
 A palavra de Ecologia vem da palavra grega: *Oikos* significando casa. 

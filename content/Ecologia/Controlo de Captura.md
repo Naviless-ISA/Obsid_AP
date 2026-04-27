@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Uma das [[5 etapas básicas de ordenamento]]. 
 
 Controlar a atividade de captura, regulamentando-a e fiscalizando-a. Constitui o primeiro grande passo do ordenamento. 

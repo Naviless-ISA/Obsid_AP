@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Uma das [[5 etapas básicas de ordenamento]]. 
 
 - Fundamento: Quanto mais escaço (menos) predadores há, mais exemplares disponíveis para captura. 

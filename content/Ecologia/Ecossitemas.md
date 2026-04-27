@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Ecossistemas são uma conjunção da [[Comunidade|comunidades]] de organismos de varias [[Espécie|espécies]] e dos fatores abióticos de um determinado local e a sua interação. Os ecossistemas formam uma séria de cadeias de relação entre organismos, o que demonstra a sua interdependência dentro do sistema. Ecossistemas são regulados por uma cadeia trófica, ou seja uma cadeia alimentar. A [[Biosfera]] é a aglomeração de todos os ecossistemas do planeta Terra. 
 
 ### Composição

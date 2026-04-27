@@ -1,4 +1,9 @@
+---
+tags:
+  - ecologia
+---
 
+--- 
 
 A quantificação dos individpus numa determinada área é baseada na relação entre o número de animais observado (O) e a sua probablidade de deteção. Produz o numero real de animais. 
 Basicamente: 

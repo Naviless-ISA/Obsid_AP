@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+  - botanica
+---
 
 Unidade taxonómica base do sistema de classificação dos seres vivos utilizado atualmente. A definição de especie não é 100% rígida mas baseia-se principalmente nas semelhas estruturais, morfológicas ou funcionais entre os organismos, resultantes da partilha de informação genética. 
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Mosaicos ecológicos são areas de diferentres [[Ecossitemas|ecossistemas]] que compõe uma paisagem. Basicamente: Ecossistema -> Mosaico de ecossistemas -> Paisagem ([[Ecologia#Escalas de Ecologia|Escalas Ecológicas]]). 
 
 A modificação induzida pelo Homem em [[Habitat|habitats]] naturais transformam rapidamente florestas em mosaicos de paisagens artificiais, causando extinção local. Algumas [[Espécie|especies]] reslientes com alta adaptabilidade começam a criar estrategias para utilizar os mosaicos. 

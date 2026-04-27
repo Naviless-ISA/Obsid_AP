@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Uma das [[5 etapas básicas de ordenamento]]. 
 
 A reserva de áreas contempla quase sempre dois tipos de situações:

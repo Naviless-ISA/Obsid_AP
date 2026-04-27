@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Indica a quantificação de *todos* os indívidious numa determinada área de amostragem (censos).
 
 #### Requesitos
@@ -5,3 +10,4 @@ Indica a quantificação de *todos* os indívidious numa determinada área de am
 
 Vantagem: não eciste incerteza estatísticas
 Desvantagem: Raramente aplicável em estudos de populações animais. 
+

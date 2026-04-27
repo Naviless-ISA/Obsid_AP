@@ -1,3 +1,8 @@
+---
+tags:
+  - ecologia
+---
+
 Uma comunidade é o grupo de diferentes [[População|populações]] que vivem em um mesmo local em um determinado período de tempo.  [[População|Populações]] não se destribuiem de igual maneira, sendo algumas espécies abundantes e outras raras. 
 
 
