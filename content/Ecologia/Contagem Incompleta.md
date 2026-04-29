@@ -19,9 +19,12 @@ Baseado na proporção de parcelas que em que é detectada a presença de pelo m
 Funcionamento:
 - Extração de *x* parcelas de amostragem de uma dada área espacial.  (Divisão de uma área em diversas pequenas secções.)
 - Amostragem das *x* parcelas: detecção da espécia-alvo (Divisões que tinham evidencias do animal)
-- A percentagem de parcelas em que a espécie est´presente é usda como índice de presença-ausência (Percentagem de quantidade de divisões que o animal foi encontrado).
-O metodo requer relação linera entre a densidade média de animais por marecela e a proporção de parcelas ocupadas. Não pode ser utilizado em parecas que apresentam dimensões distintas.  E é dificilmente aplicável para comparação de desnidades de esécies que occorem a diferentes escalas espaciais. 
+- A percentagem de parcelas em que a espécie está presente é usada como índice de presença-ausência (Percentagem de quantidade de divisões que o animal foi encontrado).
+O método requer relação linear entre a densidade média de animais por parcela e a proporção de parcelas ocupadas. Não pode ser utilizado em parecas que apresentam dimensões distintas.  E é dificilmente aplicável para comparação de densidades de espécies que ocorrerem a diferentes escalas espaciais. 
 
 ### Método de captura-recaptura
-Modelos de contagem parcial, onde a correção é efecurada no processo de amostragem, tendo o objetivo de estimar a população 
+
+^b7d331
+
+Modelos de contagem parcial, onde a correção é efectuada no processo de amostragem, tendo o objetivo de estimar a população 
  
