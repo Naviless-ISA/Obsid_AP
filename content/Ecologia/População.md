@@ -262,3 +262,28 @@ Evitar ou tolerar fatores letais ou desfavoráveis
 - agregação
 - deslocações
 - ritmos de atividade diárias. 
+
+
+---
+# Dinâmica das populações - PDF Ecologia
+
+
+A dinâmica populacional são como as populações variam no tempo. Como a natalidade e/ou a imigração afetam a abundância (N), que depois afeta as emigrações e a mortalidade.
+
+![[Pasted image 20260429151307.png]]
+
+**Variação da abundância das populações**
+A variação de numero de indivíduos num intervalo de tempo.
+Nº de mortes - D
+Emigrantes - E
+Nº de nascimentos - B
+Imigrantes- I
+
+$\Delta$ N = B - D + I - E  ou dN/dt = (b-d+i-e)*N*
+
+Se $\Delta$N > 0 - população em crescimento
+Se $\Delta$N = 0 - população em equilíbrio
+Se $\Delta$N < 0 - população em declínio
+
+Taxa de Crescimento = R = N_t+1/$N_t$
+Taxa intrinseca de crescimento λ ou r = b - d + i - e
