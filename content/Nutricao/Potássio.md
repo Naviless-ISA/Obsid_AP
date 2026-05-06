@@ -24,3 +24,12 @@ O (K) é o [[Macronutrientes|macronutriente]] principal mais abundante no solo.,
 - 1-2% - "adsorvido" à superfície de [colóides] (K de troca), disponível para as plantas
 - 1-10% - Ficado na estrutura dos minerais de argila(tipo 2:1, ex: vermiculite, esmectites), lentamente disponível para as plantas
 - 90-98% - na estrutura dos minerais como micas e feldspatos. Relativamente indisponível para as plantas
+
+#### Estrutura dos minerais primários
+![[Pasted image 20260501115842.png]]Os 90-98% do (K) que existe nos minerais primários tem uma meteorização lenta, mas ocorrem em diferentes velocidades.
+ **Biotite > Muscovite > Ortoclase > Microclina**
+
+##### Micas
+- [[Filossilicatos]]
+- Contém K
+- Liberta esse K muito lentamente
