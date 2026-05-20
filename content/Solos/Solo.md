@@ -78,7 +78,7 @@ Como se forma o gradiente de concentração de nutrientes no solo, nos elementos
 
 $J_n = -D_e * dC/dx$
 
-$J_n$ - Fluxo de Difusão - Fluxo do nutriente. Quantidade de nutriente que atracessa uma determinada área do solo por unidade de tempo. (ex: miligramas de [[Potássio]] por $cm^2$ de raiz por dia). É o resultado final sendo o ritmo que a planta está a ser alimentada por difusão
+$J_n$ - Fluxo de Difusão - Fluxo do nutriente. Quantidade de nutriente que atracessa uma determinada área do solo por unidade de tempo. (ex: miligramas de [[Nutricao/Potássio]] por $cm^2$ de raiz por dia). É o resultado final sendo o ritmo que a planta está a ser alimentada por difusão
 
 $D$ - Coeficiente de Difusão - A medida da facilidade com que o nutriente se move no meio. No solo, o valor varia por cause de vários fatores: a temperatura, a quantidade de água no solo e o quão "agarrado" o nutriente está às partículas de argila.
 

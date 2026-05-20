@@ -5,7 +5,7 @@ São considerados elementos básicos para que a planta cresca e precisam de esta
 Divididos em principais e secundarios, os macronutrientes estão entre os principais fatores para o sucesso da plantação e bons resultados ao produtor rural. 
 
 - (C, H, O)
-- Principais: [[Azoto]] (N) , [[Fosforo]] (P) e [[Potássio]] (K)
+- Principais: [[Azoto]] (N) , [[Fosforo]] (P) e [[Nutricao/Potássio]] (K)
 - Secundarios: [[Enxofre]] (S) , [[Calcio]] (Ca) e [[Magnesio]] (Mg)
 
 ### Macronutrientes Principais
@@ -14,7 +14,7 @@ Divididos em principais e secundarios, os macronutrientes estão entre os princi
 - [[Oxigenio]] : O oxigeenio tem um papel importante na respiração celular das plantas, utilizado para transformar açucares originários da fotossintese em energia.
 - [[Azoto]] (N) : Indespensavel para o desenvolvimento proteico da planta, e a sua deficiencia pode ocasionar má formação celular.
 - [[Fosforo]] (P) : Fundamental para os processos energéticos da planta, é o responsavel pelo processo da fotosintese e pela formação de estruturas celulares. 
-- [[Potássio]] : Responsavel pelo niveis de água da planta, é o responsavel pelo fechamento e pela abertura dos estômatos.
+- [[Nutricao/Potássio]] : Responsavel pelo niveis de água da planta, é o responsavel pelo fechamento e pela abertura dos estômatos.
 
 ### Nutrientes Secundários
 - [[Enxofre]] (P) : Fundamental para o processos energéticos da planta, é o respondável pelo processo de fotossintese e pela formação de estruturas celulares.
