@@ -4,6 +4,50 @@ tags:
   - solos
 ---
 --- 
+# Noções gerais sobre o Solo - PDF Solos
+### **O que é o solo?**
+**Solo** - fina cobertura superficial da crosta terreste que pode apresentar diferentes espessuras e maior ou menor regularidade. É composta de diferentes materiais como: [[Matéria Orgânica]], minerais e mineraloides. 
+![[Pasted image 20260914113226.png|376]]
+ Perfil de um Solo onde é possivel ver os vários horizontes do solo.
+
+Os solos desenvolvem-se na parte superior do **material mineral não consolidado** (o material mineral que não está apegado) que esta em cima da rocha mais oi menos sã (em boa condições), exibindo geralmente fraca espessura.
+
+Este material é depois nomeado como **Rególito**. Nisto, o solo **tem** que conter origens **biológicas** e **geológicas**, se não os tiver *não é "solo"*.
+
+### O solo como um conceito
+- Conjunto de corpos naturais que está situados à superfície da parte solida da terra.
+- Constituido por produtos de decomposição e síntese, de natureza mineral e orgânica.
+- Contem organismos vivos e com caráter dinâmico e evolutivo (O está constantemente num ciclo)
+
+
+### Funções do solo nos ecossistemas
+1. Meio para crescimento das plantas - sendo o suporte físico e nutricional. É tipo a casinha das plantas
+2. Regulador do ciclo hidrológico - Reservas de agua e até a purificação. O solo pode agir como um filtro de água
+3. Sistema de reciclagem de materiais - Decomposição e retenção de poluentes
+4. Habitat para os organismos do solo - os micro e macroorganismos - reserva de biodiversidade
+5. Meio para engenharia - Material de construção e suporte de infraestruturas. 
+
+![[Pasted image 20260914115428.png]]
+![[Pasted image 20260914115529.png]]
+
+
+![[Pasted image 20260914115558.png]]
+
+![[Pasted image 20260914115643.png]]
+
+## Pedogénese - Formação do Solo
+
+#### Meteorização das rochas
+- Por causa de acções físicas, químicas e biológicas, é criada um material original que causa transformações nas rochas e dá origem a novos minerais. 
+
+#### Acumulação e transformação de matéria orgânica
+- A acumulação de matéria orgânica causa forte escurecimento dos horizontes superficiais em muitos perfis de solo, mas o escurimento pose ser contrariado pela cor dos minerais presentes.
+- A translocação (**eluviação** e **iluviação**) de constituintes pode atingir fores expressões em alguns solos.
+
+##### Eluviação e Iluviação
+
+
+--- 
 # Nutrição Vegetal - Movimento dos nutrientes no Solo
  #nutrição 
 
