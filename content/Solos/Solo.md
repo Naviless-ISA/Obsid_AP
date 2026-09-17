@@ -46,10 +46,13 @@ Este material é depois nomeado como **Rególito**. Nisto, o solo **tem** que co
 
 ##### Eluviação e Iluviação
 
-**Eluviação** - o transporte de material dissolvido/suspenso do solo, pelo movimento descendente/lateral de água quando a chuva excede a evaporação. Isto resulta num solo empobrecido e lixiviado em certos constituintes nos níveis superiores e uma sobrelotação de nutrientes em horizontes mais baixos. 
+[Eluviação] - o transporte de material dissolvido/suspenso do solo, pelo movimento descendente/lateral de água quando a chuva excede a evaporação. Isto resulta num solo empobrecido e lixiviado em certos constituintes nos níveis superiores e uma sobrelotação de nutrientes em horizontes mais baixos. 
 	- Versão fácil - Água entra dentro do solo que excede a sua capacidade máxima de retenção. Isto faz com que a agua escorre para baixo no solo, lixiviando o horizonte como fosse um saco de chá (levando os nutrientes e certos minerais).
-**Iluviação** - Processos de recebimento ou acumulação de materiais movidos por eluviação. As reações de iluviação que causam a retenção ou imobilização de matérias retirados por eluviação, são o oposto das reações/processos que causam a mobilização por eluviação.
+[Iluviação] - Processos de recebimento ou acumulação de materiais movidos por eluviação. As reações de iluviação que causam a retenção ou imobilização de matérias retirados por eluviação, são o oposto das reações/processos que causam a mobilização por eluviação.
 	- Versão Fácil - O material que é lixiviado do topo é transportado para baixo e fica depositado nas camadas inferiores. É o processo oposto a eluviação. Nisto, ele também cria um horizonte mais denso, rico em argilas, óxidos de ferro, alumínio, ou matéria orgânica deslocada. 
+
+#### Fatores pedogenéticos
+
 
 
 --- 
