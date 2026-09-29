@@ -207,4 +207,39 @@ Contacto direto dos nutrientes com as raízes devido ao seu crescimento
 Contribuição relativa para o fornecimento de [[Macronutrientes|macronutrientes]] à cultura do milho num solo fértil.
 
 ![[Pasted image 20260410204231.png]]
-.
+
+
+
+--- 
+
+# Granulometria - PDF SOLOS
+
+
+**Granulometria** - Estudo e medição das partiuleam que compões um material sólido e a proporção de cda tamanho em uma amostra.
+
+
+## Constituintes Minerais do Solo
+### Granulometria da fração mineral do solo
+
+A **granulometria** neste caso é a relação e a observação das partículas minerais individuais do solo. É demonstrada a proporção relativa em que se encontram as particulas dentro do solo que são medidos e separados entre determinados limites.
+
+**Fração grosseira ( > 2 mm) e Fração fina ( < 2mm)**
+![[Pasted image 20260928143626.png|448]]
+
+![[Pasted image 20260928143730.png]]
+$\mu$ - Este simbolo significa que é $10^-6$ mais pequeno que um metro. ou seja 0,000001m. É bué pequenos.
+#### Fração Fina
+![[Pasted image 20260928144642.png]]
+
+- **Textura do Solo** - **Medida em Laboratório**
+	- A proporção na fração fina, as quantidades de partículas minerais elementares onde quais dimensões variam dentro de certos limites:
+		- *proporção de areia : limo : argila dentro da fração fina*
+	- A determinação da textura é feita **em laboratório** através de uma *análise mecânica ou granulométrica* pelos processos de **crivagem** (tipo a cena que fazes com a farinha), **sedimentação** e **decantação**. São realizados em amostras da fracção fina apos - remoção de matéria orgânica/outros agentes aglutinantes - dispersão destes.
+
+- **Classe Textural** - **Avaliado estimamente no campo**
+	- A categoria onde solos que têm uma mistura semelhante de areia/limo/argila são agrupados com limites relativamente estreitos. Estas classes apresentam afinidade de comportamento geral físico e químico.
+		- *Conjunto de texturas que apresentam propriedades físicas e químicas semelhantes*
+
+
+
+
