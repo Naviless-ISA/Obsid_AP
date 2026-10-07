@@ -236,9 +236,12 @@ $\mu$ - Este simbolo significa que é $10^-6$ mais pequeno que um metro. ou seja
 		- *proporção de areia : limo : argila dentro da fração fina*
 	- A determinação da textura é feita **em laboratório** através de uma *análise mecânica ou granulométrica* pelos processos de **crivagem** (tipo a cena que fazes com a farinha), **sedimentação** e **decantação**. São realizados em amostras da fracção fina apos - remoção de matéria orgânica/outros agentes aglutinantes - dispersão destes.
 
-- **Classe Textural** - **Avaliado estimamente no campo**
+- **Classe Textural** - **Avaliado estimativamente no campo**
 	- A categoria onde solos que têm uma mistura semelhante de areia/limo/argila são agrupados com limites relativamente estreitos. Estas classes apresentam afinidade de comportamento geral físico e químico.
 		- *Conjunto de texturas que apresentam propriedades físicas e químicas semelhantes*
+
+
+
 
 
 
